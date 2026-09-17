@@ -1,0 +1,283 @@
+[Thu Sep 17 01:11:32 2026] PHP 8.3.6 Development Server (http://127.0.0.1:8000) started
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60368 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60368 [200]: GET /index.php
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60368 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60376 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60384 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60388 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60396 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60402 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60412 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60376 [200]: GET /assets/css/style.css
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60384 [404]: GET /uploads/agenda/74af4cf20fc0d4448ea198898332da13.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60388 [404]: GET /uploads/agenda/1c826c2734b03ed0c22bf6a602e506d9.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60396 [404]: GET /uploads/agenda/6308014c626211290da1a946e037425c.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60402 [404]: GET /uploads/agenda/f6d6d375ea8055b3ec353adbcc02cd64.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60412 [404]: GET /uploads/agenda/e1c544b039e602402a28fc3963e672a1.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60384 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60388 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60396 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60402 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60412 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60376 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60418 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60420 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60428 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60444 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60450 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60418 [200]: GET /assets/js/main.js
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60418 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60420 [404]: GET /uploads/agenda/4256e390eb440329c2261e6b789b37d3.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60420 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60428 [404]: GET /uploads/fotos/52ae4ab9e6e082586c9d3ae5be66b548.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60428 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60444 [404]: GET /uploads/fotos/62a33b731dd3839582a254068a781628.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60444 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60450 [404]: GET /uploads/fotos/4692db300b3432943c1c7fdb1512ec58.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60450 Closing
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60454 Accepted
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60454 [404]: GET /uploads/fotos/6433cb40506bf74203f902f0897ee8a3.jpg - No such file or directory
+[Thu Sep 17 01:11:52 2026] 127.0.0.1:60454 Closing
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60466 Accepted
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60474 Accepted
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60486 Accepted
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60466 [404]: GET /uploads/banners/1879d670dcd3bf52e66bdff9737a451d.jpg - No such file or directory
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60466 Closing
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60474 [404]: GET /uploads/banners/7ceb8eb87857d2ba3089ad966d7f3e48.jpg - No such file or directory
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60486 [404]: GET /uploads/banners/56830f0b1cb8fecc07b7aa2eec2de488.png - No such file or directory
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60474 Closing
+[Thu Sep 17 01:11:53 2026] 127.0.0.1:60486 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60500 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60500 [200]: GET /agenda.php
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60500 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60516 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60522 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60532 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60516 [200]: GET /assets/css/style.css
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60522 [404]: GET /uploads/agenda/74af4cf20fc0d4448ea198898332da13.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60516 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60522 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60532 [404]: GET /uploads/agenda/1c826c2734b03ed0c22bf6a602e506d9.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60532 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60544 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60558 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60544 [404]: GET /uploads/agenda/6308014c626211290da1a946e037425c.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60544 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60558 [200]: GET /assets/js/main.js
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60558 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60572 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60580 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60586 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60572 [404]: GET /uploads/agenda/f6d6d375ea8055b3ec353adbcc02cd64.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60580 [404]: GET /uploads/agenda/e1c544b039e602402a28fc3963e672a1.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60572 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60580 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60586 [404]: GET /uploads/agenda/4256e390eb440329c2261e6b789b37d3.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60586 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60598 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60600 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60610 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60626 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60642 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60654 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60598 [404]: GET /uploads/agenda/ea24c6a154cad6c2bb2759f6bccdc229.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60598 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60600 [404]: GET /uploads/agenda/adf07ee96f93d851cb4acb6240106926.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60600 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60610 [404]: GET /uploads/agenda/cfb50c52145295d8a79aa61e5fe70751.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60610 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60626 [404]: GET /uploads/agenda/328e69b8a367ff3e63af74b2f1fa2b0a.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60626 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60642 [404]: GET /uploads/agenda/1c430bdc28eb9d6495f9c676f2807294.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60642 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60654 [404]: GET /uploads/agenda/c23fa06c4334fe9ff58d5c73184c2c48.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60654 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60656 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60666 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60670 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60678 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60686 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60700 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60656 [404]: GET /uploads/agenda/6f8a806a59b45aea71e82f1ac7f8e644.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60656 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60666 [404]: GET /uploads/agenda/8828ba4eb17b0340194040988e22ecfe.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60666 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60670 [404]: GET /uploads/agenda/e3ce91eca7d3ff402d04c2a60152ee77.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60670 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60678 [404]: GET /uploads/agenda/29e4866bfd8bdec5040b39ad48801290.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60678 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60686 [404]: GET /uploads/agenda/8f31421b4174f2cd7d6010de80d2bbaf.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60686 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60700 [404]: GET /uploads/agenda/8fb4cad9edad66db1c5f64c675317973.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60700 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60706 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60710 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60718 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60734 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60738 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60750 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60706 [404]: GET /uploads/agenda/3dd654fad795140443e02a56b7ed4b5b.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60706 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60710 [404]: GET /uploads/agenda/dbede875ac18b8de12538ea61d561eaa.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60710 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60718 [404]: GET /uploads/agenda/4102ddebf744f6ff1edc9d51918148a0.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60718 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60734 [404]: GET /uploads/agenda/fee9fec3a0bca11fe2002fe844b178c6.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60734 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60738 [404]: GET /uploads/agenda/976ab8faa3d48d8636d80d777a2aa6a7.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60738 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60750 [404]: GET /uploads/agenda/eaf0299cb8d76690751e60b48e7eff43.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60750 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60766 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60770 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60786 Accepted
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60766 [404]: GET /uploads/agenda/fccbf9c931476f79b411c2c2ac6f3208.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60766 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60770 [404]: GET /uploads/agenda/74af4cf20fc0d4448ea198898332da13.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60770 Closing
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60786 [404]: GET /uploads/agenda/1c826c2734b03ed0c22bf6a602e506d9.jpg - No such file or directory
+[Thu Sep 17 01:11:54 2026] 127.0.0.1:60786 Closing
+[Thu Sep 17 01:11:55 2026] 127.0.0.1:55378 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55378 [200]: GET /galeria.php
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55378 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55382 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55392 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55382 [200]: GET /assets/css/style.css
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55394 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55392 [404]: GET /uploads/fotos/52ae4ab9e6e082586c9d3ae5be66b548.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55392 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55394 [404]: GET /uploads/fotos/62a33b731dd3839582a254068a781628.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55382 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55394 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55396 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55406 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55422 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55430 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55396 [404]: GET /uploads/fotos/fe468631455f4939d28faf5e075221be.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55406 [404]: GET /uploads/fotos/4692db300b3432943c1c7fdb1512ec58.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55422 [404]: GET /uploads/fotos/6433cb40506bf74203f902f0897ee8a3.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55444 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55396 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55406 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55422 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55430 [404]: GET /uploads/fotos/91f3eeee5b4d86583ac4a5160d04c9a5.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55458 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55430 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55444 [404]: GET /uploads/fotos/594ad802385954b7564b2a9aa5c79d9f.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55458 [200]: GET /assets/js/main.js
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55444 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55458 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55462 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55478 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55488 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55498 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55500 Accepted
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55462 [404]: GET /uploads/fotos/0379f73848b99ef51396677adc37b04b.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55478 [404]: GET /uploads/fotos/1c5260a5a9ecca511934780c09bc880b.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55488 [404]: GET /uploads/fotos/0cd69de66fc66061ce23768946c0047e.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55498 [404]: GET /uploads/fotos/f718a0e71a6f016a19cb98fe5583c274.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55500 [404]: GET /uploads/fotos/6a84daf3e4f0d1c199ac76e42467efff.jpg - No such file or directory
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55462 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55478 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55488 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55498 Closing
+[Thu Sep 17 01:11:56 2026] 127.0.0.1:55500 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55508 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55508 [200]: GET /album.php?id=15
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55508 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55514 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55522 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55514 [200]: GET /assets/css/style.css
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55522 [200]: GET /assets/js/main.js
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55514 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55522 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55538 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55552 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55568 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55580 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55584 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55598 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55538 [404]: GET /uploads/fotos/2332abde33017a161c8392e5f4a170b6.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55538 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55552 [404]: GET /uploads/fotos/c3e14a5d45607c161e88a43335e93a09.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55552 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55568 [404]: GET /uploads/fotos/d6abfc6840ccd85cdc397d6d68b264ab.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55568 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55580 [404]: GET /uploads/fotos/720533d2ffc6091156e87681b615fcec.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55580 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55584 [404]: GET /uploads/fotos/4f7cd6c459f6543bde4f5f57806d6bb3.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55584 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55598 [404]: GET /uploads/fotos/5271525eb2377f703544d6f3e45f8eb1.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55598 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55606 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55608 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55618 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55626 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55630 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55638 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55606 [404]: GET /uploads/fotos/d4f6c8f1fda1d17c511587a7c6018380.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55606 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55608 [404]: GET /uploads/fotos/beb65971da30ccfe29a8a8bf75783e74.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55608 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55618 [404]: GET /uploads/fotos/d722c04bb0d0e14ae101524fd337b5a5.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55618 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55626 [404]: GET /uploads/fotos/5cf1bc7a423a499adfa9117a9767b705.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55626 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55630 [404]: GET /uploads/fotos/05ca78a3dd2ade0173defa6a37997873.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55630 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55638 [404]: GET /uploads/fotos/93f3dc851702a81d6a7127a63c33233d.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55638 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55644 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55650 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55658 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55674 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55678 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55686 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55644 [404]: GET /uploads/fotos/4308a2637cdcdf777030d2a8e51be1f3.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55644 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55650 [404]: GET /uploads/fotos/713a5917454b8d640d9b75e69fc6a5e2.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55650 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55658 [404]: GET /uploads/fotos/7a336037ad620a7dabc1d761ed7e49b5.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55658 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55674 [404]: GET /uploads/fotos/4e7dfad698923d94881b93a0b2f1ca4a.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55674 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55678 [404]: GET /uploads/fotos/e99b4abf2058b604457e37c82f4a98bc.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55678 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55686 [404]: GET /uploads/fotos/b52764062d3278742dcc9aed66fabbb0.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55686 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55698 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55706 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55718 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55728 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55742 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55754 Accepted
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55698 [404]: GET /uploads/fotos/77a2c8afc1c2e6009e13188ffac143dc.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55698 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55706 [404]: GET /uploads/fotos/fb689aa7bdeae284ab1a6c9ebee613cb.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55706 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55718 [404]: GET /uploads/fotos/5d7cb192d1c98647cb21d475fe6afcb5.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55718 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55728 [404]: GET /uploads/fotos/de6e20da706994befb5349933aead817.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55728 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55742 [404]: GET /uploads/fotos/d4a3ccc8c37e5178cc1e1d21340d9ed2.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55742 Closing
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55754 [404]: GET /uploads/fotos/05f4631aee0d440d810c06707c5dc7b8.jpg - No such file or directory
+[Thu Sep 17 01:11:57 2026] 127.0.0.1:55754 Closing
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55764 Accepted
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55764 [200]: GET /musicas.php
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55764 Closing
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55780 Accepted
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55792 Accepted
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55780 [200]: GET /assets/css/style.css
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55792 [200]: GET /assets/js/main.js
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55780 Closing
+[Thu Sep 17 01:11:58 2026] 127.0.0.1:55792 Closing
+[Thu Sep 17 01:12:00 2026] 127.0.0.1:55802 Accepted
+[Thu Sep 17 01:12:00 2026] 127.0.0.1:55802 [200]: GET /admin/login.php
+[Thu Sep 17 01:12:00 2026] 127.0.0.1:55802 Closing
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55810 Accepted
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55810 [302]: POST /admin/login.php
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55810 Closing
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55826 Accepted
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55826 [200]: GET /admin/index.php
+[Thu Sep 17 01:12:02 2026] 127.0.0.1:55826 Closing
